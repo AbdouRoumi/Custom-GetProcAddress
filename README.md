@@ -3,7 +3,7 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=2000&pause=1000&width=435&lines=Welcome+to+CustomGetProc+Repo!!!;Explore+Windows+API+Internals;Manually+Resolve+Function+Addresses;Learn+PE+Export+Table+Parsing)](https://git.io/typing-svg)
 
 
-##NOTE
+## NOTE
 I will use this function directly in the other malwares, try to check it before seeing the other projects <3 !! Happy Hacking <3
 ## Overview
 

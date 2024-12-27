@@ -49,7 +49,7 @@ The tool walks through the PE (Portable Executable) export directory, retrieves 
 3. Example resolution:
    ```cmd
    Original GetProcAddress : 0x00007FF995C50690
-   GetProcAddress Replacement : 0x00007FF995C50690
+   Custom GetProcAddress : 0x00007FF995C50690
    
    ```
 
@@ -61,7 +61,7 @@ Original GetProcAddress : 0x00007FF995C50690
 [+] Checking Function: NtAllocateUuids
 [+] Checking Function: NtAllocateVirtualMemory
 [0217] FOUND API -       NAME: NtAllocateVirtualMemory -        ADDRESS: 0x00007FF995C50690 -   ORDINAL: 218
-GetProcAddress Replacement : 0x00007FF995C50690
+Custom GetProcAddress : 0x00007FF995C50690
 ```
 
 ## How It Works
